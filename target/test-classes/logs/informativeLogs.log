@@ -1,96 +1,84 @@
-15:16:19.945 INFO  AUTOMATION - On start
+15:19:53.741 INFO  AUTOMATION - On start
 
-15:16:26.154 INFO  AUTOMATION - Esperando que la pagina ShoppingPage cargue
-15:16:26.215 INFO  AUTOMATION - ShoppingPage ha cargado satisfactoriamente
-15:16:26.215 INFO  AUTOMATION - Abriendo el menu Burger
-15:16:26.382 INFO  AUTOMATION - Esperando que la pagina MenuBurger cargue
-15:16:26.443 INFO  AUTOMATION - MenuBurger ha cargado satisfactoriamente
-15:16:26.443 INFO  AUTOMATION - Esperando que sea clickeable ya que tiene una transicion
-15:16:26.488 INFO  AUTOMATION - On test Start: aboutButtonTest
-15:16:26.655 INFO  AUTOMATION - Test passed
+15:19:59.976 INFO  AUTOMATION - Esperando que la pagina ShoppingPage cargue
+15:20:00.052 INFO  AUTOMATION - ShoppingPage ha cargado satisfactoriamente
+15:20:00.052 INFO  AUTOMATION - Abriendo el menu Burger
+15:20:00.186 INFO  AUTOMATION - Esperando que la pagina MenuBurger cargue
+15:20:00.252 INFO  AUTOMATION - MenuBurger ha cargado satisfactoriamente
+15:20:00.252 INFO  AUTOMATION - Esperando que sea clickeable ya que tiene una transicion
+15:20:00.290 INFO  AUTOMATION - On test Start: aboutButtonTest
+15:20:00.459 INFO  AUTOMATION - Test passed
 
-15:16:31.005 INFO  AUTOMATION - Esperando que la pagina ShoppingPage cargue
-15:16:31.062 INFO  AUTOMATION - ShoppingPage ha cargado satisfactoriamente
-15:16:31.062 INFO  AUTOMATION - Abriendo el menu Burger
-15:16:31.240 INFO  AUTOMATION - Esperando que la pagina MenuBurger cargue
-15:16:31.305 INFO  AUTOMATION - MenuBurger ha cargado satisfactoriamente
-15:16:31.305 INFO  AUTOMATION - Esperando que sea clickeable ya que tiene una transicion
-15:16:31.348 INFO  AUTOMATION - On test Start: logoutTest
-15:16:31.351 INFO  AUTOMATION - Clickenado Logout
-15:16:31.515 INFO  AUTOMATION - Esperando que la pagina LoginPage cargue
-15:16:31.548 INFO  AUTOMATION - LoginPage ha cargado satisfactoriamente
-15:16:31.665 INFO  AUTOMATION - Test passed
+15:20:05.018 INFO  AUTOMATION - Esperando que la pagina ShoppingPage cargue
+15:20:05.090 INFO  AUTOMATION - ShoppingPage ha cargado satisfactoriamente
+15:20:05.090 INFO  AUTOMATION - Abriendo el menu Burger
+15:20:05.230 INFO  AUTOMATION - Esperando que la pagina MenuBurger cargue
+15:20:05.307 INFO  AUTOMATION - MenuBurger ha cargado satisfactoriamente
+15:20:05.307 INFO  AUTOMATION - Esperando que sea clickeable ya que tiene una transicion
+15:20:05.351 INFO  AUTOMATION - On test Start: logoutTest
+15:20:05.354 INFO  AUTOMATION - Clickenado Logout
+15:20:05.536 INFO  AUTOMATION - Esperando que la pagina LoginPage cargue
+15:20:05.571 INFO  AUTOMATION - LoginPage ha cargado satisfactoriamente
+15:20:05.680 INFO  AUTOMATION - Test passed
 
-15:16:36.223 INFO  AUTOMATION - Esperando que la pagina ShoppingPage cargue
-15:16:36.267 INFO  AUTOMATION - ShoppingPage ha cargado satisfactoriamente
-15:16:36.270 INFO  AUTOMATION - On test Start: socialMediaLinksTest
-15:16:36.274 INFO  AUTOMATION - Verificando los links de las redes sociales
-15:16:36.491 INFO  AUTOMATION - Test passed
+15:20:11.096 INFO  AUTOMATION - Esperando que la pagina ShoppingPage cargue
+15:20:11.142 INFO  AUTOMATION - ShoppingPage ha cargado satisfactoriamente
+15:20:11.144 INFO  AUTOMATION - On test Start: socialMediaLinksTest
+15:20:11.147 INFO  AUTOMATION - Verificando los links de las redes sociales
+15:20:11.377 INFO  AUTOMATION - Test passed
 
-15:16:38.058 INFO  AUTOMATION - Ingresando a la url
-15:16:40.386 INFO  AUTOMATION - Esperando que la pagina LoginPage cargue
-15:16:40.436 INFO  AUTOMATION - LoginPage ha cargado satisfactoriamente
-15:16:40.440 INFO  AUTOMATION - Escribiendo el username
-15:16:40.709 INFO  AUTOMATION - Escribiendo el password
-15:16:40.802 INFO  AUTOMATION - Click en el boton Login
-15:16:40.921 INFO  AUTOMATION - Esperando que la pagina ShoppingPage cargue
-15:16:40.953 INFO  AUTOMATION - ShoppingPage ha cargado satisfactoriamente
-15:16:40.953 INFO  AUTOMATION - Navegando al detalle del item Sauce Labs Fleece Jacket
-15:16:41.090 INFO  AUTOMATION - Esperando que la pagina ItemDetailPage cargue
-15:16:41.149 INFO  AUTOMATION - ItemDetailPage ha cargado satisfactoriamente
-15:16:41.151 INFO  AUTOMATION - On test Start: backToProductsTest
-15:16:41.151 INFO  AUTOMATION - Haciendo click el boton Back to products
-15:16:41.283 INFO  AUTOMATION - Esperando que la pagina ShoppingPage cargue
-15:16:41.326 INFO  AUTOMATION - ShoppingPage ha cargado satisfactoriamente
-15:16:41.326 INFO  AUTOMATION - Verificamos la pagina de Shopping
-15:16:41.420 INFO  AUTOMATION - Test passed
+15:20:15.743 INFO  AUTOMATION - Esperando que la pagina ShoppingPage cargue
+15:20:15.788 INFO  AUTOMATION - ShoppingPage ha cargado satisfactoriamente
+15:20:15.788 INFO  AUTOMATION - Navegando al detalle del item Sauce Labs Fleece Jacket
+15:20:15.950 INFO  AUTOMATION - Esperando que la pagina ItemDetailPage cargue
+15:20:15.982 INFO  AUTOMATION - ItemDetailPage ha cargado satisfactoriamente
+15:20:15.982 INFO  AUTOMATION - On test Start: backToProductsTest
+15:20:15.993 INFO  AUTOMATION - Haciendo click el boton Back to products
+15:20:16.070 INFO  AUTOMATION - Esperando que la pagina ShoppingPage cargue
+15:20:16.113 INFO  AUTOMATION - ShoppingPage ha cargado satisfactoriamente
+15:20:16.113 INFO  AUTOMATION - Verificamos la pagina de Shopping
+15:20:16.220 INFO  AUTOMATION - Test passed
 
-15:16:43.063 INFO  AUTOMATION - Ingresando a la url
-15:16:45.627 INFO  AUTOMATION - Esperando que la pagina LoginPage cargue
-15:16:45.673 INFO  AUTOMATION - LoginPage ha cargado satisfactoriamente
-15:16:45.674 INFO  AUTOMATION - Escribiendo el username
-15:16:45.892 INFO  AUTOMATION - Escribiendo el password
-15:16:45.983 INFO  AUTOMATION - Click en el boton Login
-15:16:46.068 INFO  AUTOMATION - Esperando que la pagina ShoppingPage cargue
-15:16:46.101 INFO  AUTOMATION - ShoppingPage ha cargado satisfactoriamente
-15:16:46.101 INFO  AUTOMATION - Navegando al detalle del item Sauce Labs Fleece Jacket
-15:16:46.244 INFO  AUTOMATION - Esperando que la pagina ItemDetailPage cargue
-15:16:46.271 INFO  AUTOMATION - ItemDetailPage ha cargado satisfactoriamente
-15:16:46.292 INFO  AUTOMATION - On test Start: itemDetailTest
-15:16:46.292 INFO  AUTOMATION - Verificando el detalle del item
-15:16:46.515 INFO  AUTOMATION - Test passed
+15:20:20.633 INFO  AUTOMATION - Esperando que la pagina ShoppingPage cargue
+15:20:20.681 INFO  AUTOMATION - ShoppingPage ha cargado satisfactoriamente
+15:20:20.682 INFO  AUTOMATION - Navegando al detalle del item Sauce Labs Fleece Jacket
+15:20:20.836 INFO  AUTOMATION - Esperando que la pagina ItemDetailPage cargue
+15:20:20.890 INFO  AUTOMATION - ItemDetailPage ha cargado satisfactoriamente
+15:20:20.890 INFO  AUTOMATION - On test Start: itemDetailTest
+15:20:20.901 INFO  AUTOMATION - Verificando el detalle del item
+15:20:21.116 INFO  AUTOMATION - Test passed
 
-15:16:48.141 INFO  AUTOMATION - Ingresando a la url
-15:16:50.530 INFO  AUTOMATION - Esperando que la pagina LoginPage cargue
-15:16:50.581 INFO  AUTOMATION - LoginPage ha cargado satisfactoriamente
-15:16:50.587 INFO  AUTOMATION - On test Start: invalidLoginTest
-15:16:50.592 INFO  AUTOMATION - Escribiendo el username
-15:16:50.810 INFO  AUTOMATION - Escribiendo el password
-15:16:50.891 INFO  AUTOMATION - Click en el boton Login
-15:16:50.961 INFO  AUTOMATION - Verificando que el error sea visible y tenga el texto correcto
-15:16:51.039 INFO  AUTOMATION - Test passed
+15:20:22.749 INFO  AUTOMATION - Ingresando a la url
+15:20:25.113 INFO  AUTOMATION - Esperando que la pagina LoginPage cargue
+15:20:25.166 INFO  AUTOMATION - LoginPage ha cargado satisfactoriamente
+15:20:25.166 INFO  AUTOMATION - On test Start: invalidLoginTest
+15:20:25.178 INFO  AUTOMATION - Escribiendo el username
+15:20:25.454 INFO  AUTOMATION - Escribiendo el password
+15:20:25.590 INFO  AUTOMATION - Click en el boton Login
+15:20:25.691 INFO  AUTOMATION - Verificando que el error sea visible y tenga el texto correcto
+15:20:25.779 INFO  AUTOMATION - Test passed
 
-15:16:52.535 INFO  AUTOMATION - Ingresando a la url
-15:16:54.953 INFO  AUTOMATION - Esperando que la pagina LoginPage cargue
-15:16:55.000 INFO  AUTOMATION - LoginPage ha cargado satisfactoriamente
-15:16:55.002 INFO  AUTOMATION - On test Start: validLoginTest
-15:16:55.005 INFO  AUTOMATION - Escribiendo el username
-15:16:55.208 INFO  AUTOMATION - Escribiendo el password
-15:16:55.320 INFO  AUTOMATION - Click en el boton Login
-15:16:55.409 INFO  AUTOMATION - Valido ingreso a la pagina principal
-15:16:55.490 INFO  AUTOMATION - Test passed
+15:20:27.347 INFO  AUTOMATION - Ingresando a la url
+15:20:29.667 INFO  AUTOMATION - Esperando que la pagina LoginPage cargue
+15:20:29.711 INFO  AUTOMATION - LoginPage ha cargado satisfactoriamente
+15:20:29.712 INFO  AUTOMATION - On test Start: validLoginTest
+15:20:29.714 INFO  AUTOMATION - Escribiendo el username
+15:20:29.922 INFO  AUTOMATION - Escribiendo el password
+15:20:29.998 INFO  AUTOMATION - Click en el boton Login
+15:20:30.082 INFO  AUTOMATION - Valido ingreso a la pagina principal
+15:20:30.182 INFO  AUTOMATION - Test passed
 
-15:16:57.068 INFO  AUTOMATION - Ingresando a la url
-15:16:59.333 INFO  AUTOMATION - Esperando que la pagina LoginPage cargue
-15:16:59.399 INFO  AUTOMATION - LoginPage ha cargado satisfactoriamente
-15:16:59.400 INFO  AUTOMATION - On test Start: verifyLoginPageTest
-15:16:59.476 INFO  AUTOMATION - Test passed
+15:20:31.777 INFO  AUTOMATION - Ingresando a la url
+15:20:34.186 INFO  AUTOMATION - Esperando que la pagina LoginPage cargue
+15:20:34.232 INFO  AUTOMATION - LoginPage ha cargado satisfactoriamente
+15:20:34.234 INFO  AUTOMATION - On test Start: verifyLoginPageTest
+15:20:34.377 INFO  AUTOMATION - Test passed
 
-15:17:05.061 INFO  AUTOMATION - Esperando que la pagina ShoppingPage cargue
-15:17:05.104 INFO  AUTOMATION - ShoppingPage ha cargado satisfactoriamente
-15:17:05.106 INFO  AUTOMATION - On test Start: verifyPageTest
-15:17:05.109 INFO  AUTOMATION - Verificamos la pagina de Shopping
-15:17:05.226 INFO  AUTOMATION - Test passed
+15:20:38.695 INFO  AUTOMATION - Esperando que la pagina ShoppingPage cargue
+15:20:38.743 INFO  AUTOMATION - ShoppingPage ha cargado satisfactoriamente
+15:20:38.745 INFO  AUTOMATION - On test Start: verifyPageTest
+15:20:38.748 INFO  AUTOMATION - Verificamos la pagina de Shopping
+15:20:38.876 INFO  AUTOMATION - Test passed
 
-15:17:05.491 INFO  AUTOMATION - on finish
+15:20:39.176 INFO  AUTOMATION - on finish
 
