@@ -1,0 +1,15 @@
+08:41:39.708 INFO  AUTOMATION - On start
+
+08:41:45.162 INFO  AUTOMATION - Esperando que la pagina LoginPage cargue
+08:41:45.210 INFO  AUTOMATION - LoginPage ha cargado satisfactoriamente
+08:41:45.239 INFO  AUTOMATION - Escribiendo el username
+08:41:45.401 INFO  AUTOMATION - Escribiendo el password
+08:41:45.504 INFO  AUTOMATION - Click en el boton Login
+08:41:45.615 INFO  AUTOMATION - Esperando que la pagina ShoppingPage cargue
+08:41:45.646 INFO  AUTOMATION - ShoppingPage ha cargado satisfactoriamente
+08:41:45.661 INFO  AUTOMATION - On test Start: verifyPageTest
+08:41:45.690 INFO  AUTOMATION - Verificamos la pagina de Shopping
+08:41:45.842 INFO  AUTOMATION - Test passed
+
+08:41:46.175 INFO  AUTOMATION - on finish
+
