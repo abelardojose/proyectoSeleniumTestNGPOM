@@ -1,5 +1,6 @@
 package utilities;
 
+import org.openqa.selenium.Cookie;
 import org.openqa.selenium.WebDriver;
 import page.ItemDetailPage;
 import page.LoginPage;
@@ -12,6 +13,13 @@ public class CommonFlows {
         return new WebDriverProvider().get();
     }
 
+    public void assignLoginCookie() {
+        Logs.debug("Asignando la cookie al login");
+        getDriver().get("https://www.saucedemo.com/404");
+        final var loginCookie = new Cookie("session-username", "standard_user");
+        getDriver().manage().addCookie(loginCookie);
+    }
+
     public void goToLoginPage() {
         getDriver().get("https://www.saucedemo.com/");
         new LoginPage().waitPageToLoad();
@@ -19,9 +27,8 @@ public class CommonFlows {
 
     public void goToShoppingPage() {
 
-        goToLoginPage();
-
-        new LoginPage().fillLogin("standard_user", "secret_sauce");
+        assignLoginCookie();
+        getDriver().get("https://www.saucedemo.com/inventory.html");
         new ShoppingPage().waitPageToLoad();
     }
 
