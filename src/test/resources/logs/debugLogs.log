@@ -1,25 +1,146 @@
-16:00:19.265 INFO  AUTOMATION - On start
+00:56:48.435 INFO  AUTOMATION - On start
 
-16:00:19.296 DEBUG AUTOMATION - Borrando la evidencia de screenshot en ejecucion anterior
-16:00:19.296 DEBUG AUTOMATION - Borrando la evidencia de pagesource en ejecucion anterior
-16:00:19.390 DEBUG AUTOMATION - Defaul driver CHROME
-16:00:19.390 DEBUG AUTOMATION - Init Driver: CHROME
-16:00:24.471 DEBUG AUTOMATION - Maximizar pantalla
-16:00:24.622 DEBUG AUTOMATION - Borrar cookies
-16:00:24.763 DEBUG AUTOMATION - Asignando la cookie al login
-16:00:27.824 INFO  AUTOMATION - Esperando que la pagina ShoppingPage cargue
-16:00:27.895 INFO  AUTOMATION - ShoppingPage ha cargado satisfactoriamente
-16:00:27.897 INFO  AUTOMATION - Navegando al detalle del item Sauce Labs Fleece Jacket
-16:00:28.091 INFO  AUTOMATION - Esperando que la pagina ItemDetailPage cargue
-16:00:28.122 INFO  AUTOMATION - ItemDetailPage ha cargado satisfactoriamente
-16:00:28.156 INFO  AUTOMATION - On test Start: backToProductsTest
-16:00:28.175 INFO  AUTOMATION - Haciendo click el boton Back to products
-16:00:28.314 INFO  AUTOMATION - Esperando que la pagina ShoppingPage cargue
-16:00:28.348 INFO  AUTOMATION - ShoppingPage ha cargado satisfactoriamente
-16:00:28.348 INFO  AUTOMATION - Verificamos la pagina de Shopping
-16:00:28.489 DEBUG AUTOMATION - Antes step stop de Allure
-16:00:28.505 INFO  AUTOMATION - Test passed
+00:56:48.442 DEBUG AUTOMATION - Borrando la evidencia de screenshot en ejecucion anterior
+00:56:48.450 DEBUG AUTOMATION - Borrando la evidencia de pagesource en ejecucion anterior
+00:56:48.513 DEBUG AUTOMATION - Init Driver: FIREFOX
+00:56:48.513 DEBUG AUTOMATION - Headless mode? true
+00:56:50.834 DEBUG AUTOMATION - Maximizar pantalla
+00:56:51.109 DEBUG AUTOMATION - Borrar cookies
+00:56:51.193 DEBUG AUTOMATION - Asignando la cookie al login
+00:56:55.630 INFO  AUTOMATION - Esperando que la pagina ShoppingPage cargue
+00:56:55.659 INFO  AUTOMATION - ShoppingPage ha cargado satisfactoriamente
+00:56:55.660 INFO  AUTOMATION - Abriendo el menu Burger
+00:56:55.902 INFO  AUTOMATION - Esperando que la pagina MenuBurger cargue
+00:56:55.914 INFO  AUTOMATION - MenuBurger ha cargado satisfactoriamente
+00:56:55.914 INFO  AUTOMATION - Esperando que sea clickeable ya que tiene una transicion
+00:56:55.931 INFO  AUTOMATION - On test Start: aboutButtonTest
+00:56:56.013 DEBUG AUTOMATION - Antes step stop de Allure
+00:56:56.019 INFO  AUTOMATION - Test passed
 
-16:00:28.505 DEBUG AUTOMATION - Finalizar driver
-16:00:28.756 INFO  AUTOMATION - on finish
+00:56:56.020 DEBUG AUTOMATION - Finalizar driver
+00:56:56.770 DEBUG AUTOMATION - Init Driver: FIREFOX
+00:56:56.770 DEBUG AUTOMATION - Headless mode? true
+00:56:58.685 DEBUG AUTOMATION - Maximizar pantalla
+00:56:58.964 DEBUG AUTOMATION - Borrar cookies
+00:56:58.970 DEBUG AUTOMATION - Asignando la cookie al login
+00:57:03.368 INFO  AUTOMATION - Esperando que la pagina ShoppingPage cargue
+00:57:03.388 INFO  AUTOMATION - ShoppingPage ha cargado satisfactoriamente
+00:57:03.389 INFO  AUTOMATION - Abriendo el menu Burger
+00:57:03.617 INFO  AUTOMATION - Esperando que la pagina MenuBurger cargue
+00:57:03.632 INFO  AUTOMATION - MenuBurger ha cargado satisfactoriamente
+00:57:03.632 INFO  AUTOMATION - Esperando que sea clickeable ya que tiene una transicion
+00:57:03.643 INFO  AUTOMATION - On test Start: logoutTest
+00:57:03.646 INFO  AUTOMATION - Clickenado Logout
+00:57:03.881 INFO  AUTOMATION - Esperando que la pagina LoginPage cargue
+00:57:03.891 INFO  AUTOMATION - LoginPage ha cargado satisfactoriamente
+00:57:03.917 DEBUG AUTOMATION - Antes step stop de Allure
+00:57:03.918 INFO  AUTOMATION - Test passed
+
+00:57:03.919 DEBUG AUTOMATION - Finalizar driver
+00:57:04.735 DEBUG AUTOMATION - Init Driver: FIREFOX
+00:57:04.735 DEBUG AUTOMATION - Headless mode? true
+00:57:06.488 DEBUG AUTOMATION - Maximizar pantalla
+00:57:06.759 DEBUG AUTOMATION - Borrar cookies
+00:57:06.764 DEBUG AUTOMATION - Asignando la cookie al login
+00:57:11.042 INFO  AUTOMATION - Esperando que la pagina ShoppingPage cargue
+00:57:11.061 INFO  AUTOMATION - ShoppingPage ha cargado satisfactoriamente
+00:57:11.063 INFO  AUTOMATION - On test Start: socialMediaLinksTest
+00:57:11.064 INFO  AUTOMATION - Verificando los links de las redes sociales
+00:57:11.124 DEBUG AUTOMATION - Antes step stop de Allure
+00:57:11.125 INFO  AUTOMATION - Test passed
+
+00:57:11.126 DEBUG AUTOMATION - Finalizar driver
+00:57:11.899 DEBUG AUTOMATION - Init Driver: FIREFOX
+00:57:11.899 DEBUG AUTOMATION - Headless mode? true
+00:57:13.686 DEBUG AUTOMATION - Maximizar pantalla
+00:57:13.963 DEBUG AUTOMATION - Borrar cookies
+00:57:13.971 DEBUG AUTOMATION - Asignando la cookie al login
+00:57:18.219 INFO  AUTOMATION - Esperando que la pagina ShoppingPage cargue
+00:57:18.238 INFO  AUTOMATION - ShoppingPage ha cargado satisfactoriamente
+00:57:18.238 INFO  AUTOMATION - Navegando al detalle del item Sauce Labs Fleece Jacket
+00:57:18.471 INFO  AUTOMATION - Esperando que la pagina ItemDetailPage cargue
+00:57:18.484 INFO  AUTOMATION - ItemDetailPage ha cargado satisfactoriamente
+00:57:18.485 INFO  AUTOMATION - On test Start: backToProductsTest
+00:57:18.487 INFO  AUTOMATION - Haciendo click el boton Back to products
+00:57:18.719 INFO  AUTOMATION - Esperando que la pagina ShoppingPage cargue
+00:57:18.729 INFO  AUTOMATION - ShoppingPage ha cargado satisfactoriamente
+00:57:18.729 INFO  AUTOMATION - Verificamos la pagina de Shopping
+00:57:18.755 DEBUG AUTOMATION - Antes step stop de Allure
+00:57:18.756 INFO  AUTOMATION - Test passed
+
+00:57:18.757 DEBUG AUTOMATION - Finalizar driver
+00:57:19.344 DEBUG AUTOMATION - Init Driver: FIREFOX
+00:57:19.344 DEBUG AUTOMATION - Headless mode? true
+00:57:21.072 DEBUG AUTOMATION - Maximizar pantalla
+00:57:21.331 DEBUG AUTOMATION - Borrar cookies
+00:57:21.335 DEBUG AUTOMATION - Asignando la cookie al login
+00:57:25.772 INFO  AUTOMATION - Esperando que la pagina ShoppingPage cargue
+00:57:25.790 INFO  AUTOMATION - ShoppingPage ha cargado satisfactoriamente
+00:57:25.790 INFO  AUTOMATION - Navegando al detalle del item Sauce Labs Fleece Jacket
+00:57:26.026 INFO  AUTOMATION - Esperando que la pagina ItemDetailPage cargue
+00:57:26.037 INFO  AUTOMATION - ItemDetailPage ha cargado satisfactoriamente
+00:57:26.039 INFO  AUTOMATION - On test Start: itemDetailTest
+00:57:26.041 INFO  AUTOMATION - Verificando el detalle del item
+00:57:26.099 DEBUG AUTOMATION - Antes step stop de Allure
+00:57:26.102 INFO  AUTOMATION - Test passed
+
+00:57:26.103 DEBUG AUTOMATION - Finalizar driver
+00:57:26.858 DEBUG AUTOMATION - Init Driver: FIREFOX
+00:57:26.858 DEBUG AUTOMATION - Headless mode? true
+00:57:28.659 DEBUG AUTOMATION - Maximizar pantalla
+00:57:28.932 DEBUG AUTOMATION - Borrar cookies
+00:57:28.940 INFO  AUTOMATION - Ingresando a la url
+00:57:32.896 INFO  AUTOMATION - Esperando que la pagina LoginPage cargue
+00:57:32.918 INFO  AUTOMATION - LoginPage ha cargado satisfactoriamente
+00:57:32.921 INFO  AUTOMATION - On test Start: invalidLoginTest
+00:57:32.924 INFO  AUTOMATION - Escribiendo el username
+00:57:32.980 INFO  AUTOMATION - Escribiendo el password
+00:57:32.999 INFO  AUTOMATION - Click en el boton Login
+00:57:33.225 INFO  AUTOMATION - Verificando que el error sea visible y tenga el texto correcto
+00:57:33.257 DEBUG AUTOMATION - Antes step stop de Allure
+00:57:33.259 INFO  AUTOMATION - Test passed
+
+00:57:33.259 DEBUG AUTOMATION - Finalizar driver
+00:57:33.846 DEBUG AUTOMATION - Init Driver: FIREFOX
+00:57:33.846 DEBUG AUTOMATION - Headless mode? true
+00:57:35.579 DEBUG AUTOMATION - Maximizar pantalla
+00:57:35.851 DEBUG AUTOMATION - Borrar cookies
+00:57:35.857 INFO  AUTOMATION - Ingresando a la url
+00:57:39.354 INFO  AUTOMATION - Esperando que la pagina LoginPage cargue
+00:57:39.373 INFO  AUTOMATION - LoginPage ha cargado satisfactoriamente
+00:57:39.374 INFO  AUTOMATION - On test Start: validLoginTest
+00:57:39.376 INFO  AUTOMATION - Escribiendo el username
+00:57:39.428 INFO  AUTOMATION - Escribiendo el password
+00:57:39.446 INFO  AUTOMATION - Click en el boton Login
+00:57:39.683 INFO  AUTOMATION - Valido ingreso a la pagina principal
+00:57:39.723 DEBUG AUTOMATION - Antes step stop de Allure
+00:57:39.724 INFO  AUTOMATION - Test passed
+
+00:57:39.724 DEBUG AUTOMATION - Finalizar driver
+00:57:40.308 DEBUG AUTOMATION - Init Driver: FIREFOX
+00:57:40.308 DEBUG AUTOMATION - Headless mode? true
+00:57:42.252 DEBUG AUTOMATION - Maximizar pantalla
+00:57:42.520 DEBUG AUTOMATION - Borrar cookies
+00:57:42.525 INFO  AUTOMATION - Ingresando a la url
+00:57:46.523 INFO  AUTOMATION - Esperando que la pagina LoginPage cargue
+00:57:46.544 INFO  AUTOMATION - LoginPage ha cargado satisfactoriamente
+00:57:46.546 INFO  AUTOMATION - On test Start: verifyLoginPageTest
+00:57:46.577 DEBUG AUTOMATION - Antes step stop de Allure
+00:57:46.578 INFO  AUTOMATION - Test passed
+
+00:57:46.578 DEBUG AUTOMATION - Finalizar driver
+00:57:47.174 DEBUG AUTOMATION - Init Driver: FIREFOX
+00:57:47.174 DEBUG AUTOMATION - Headless mode? true
+00:57:48.894 DEBUG AUTOMATION - Maximizar pantalla
+00:57:49.164 DEBUG AUTOMATION - Borrar cookies
+00:57:49.170 DEBUG AUTOMATION - Asignando la cookie al login
+00:57:53.712 INFO  AUTOMATION - Esperando que la pagina ShoppingPage cargue
+00:57:53.731 INFO  AUTOMATION - ShoppingPage ha cargado satisfactoriamente
+00:57:53.732 INFO  AUTOMATION - On test Start: verifyPageTest
+00:57:53.734 INFO  AUTOMATION - Verificamos la pagina de Shopping
+00:57:53.762 DEBUG AUTOMATION - Antes step stop de Allure
+00:57:53.763 INFO  AUTOMATION - Test passed
+
+00:57:53.763 DEBUG AUTOMATION - Finalizar driver
+00:57:54.411 INFO  AUTOMATION - on finish
 
